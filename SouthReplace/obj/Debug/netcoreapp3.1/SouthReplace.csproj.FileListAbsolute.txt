@@ -1,0 +1,13 @@
+C:\South\SouthReplace\SouthReplace\bin\Debug\netcoreapp3.1\SouthReplace.exe
+C:\South\SouthReplace\SouthReplace\bin\Debug\netcoreapp3.1\SouthReplace.deps.json
+C:\South\SouthReplace\SouthReplace\bin\Debug\netcoreapp3.1\SouthReplace.runtimeconfig.json
+C:\South\SouthReplace\SouthReplace\bin\Debug\netcoreapp3.1\SouthReplace.runtimeconfig.dev.json
+C:\South\SouthReplace\SouthReplace\bin\Debug\netcoreapp3.1\SouthReplace.dll
+C:\South\SouthReplace\SouthReplace\bin\Debug\netcoreapp3.1\SouthReplace.pdb
+C:\South\SouthReplace\SouthReplace\obj\Debug\netcoreapp3.1\SouthReplace.csprojAssemblyReference.cache
+C:\South\SouthReplace\SouthReplace\obj\Debug\netcoreapp3.1\SouthReplace.AssemblyInfoInputs.cache
+C:\South\SouthReplace\SouthReplace\obj\Debug\netcoreapp3.1\SouthReplace.AssemblyInfo.cs
+C:\South\SouthReplace\SouthReplace\obj\Debug\netcoreapp3.1\SouthReplace.csproj.CoreCompileInputs.cache
+C:\South\SouthReplace\SouthReplace\obj\Debug\netcoreapp3.1\SouthReplace.dll
+C:\South\SouthReplace\SouthReplace\obj\Debug\netcoreapp3.1\SouthReplace.pdb
+C:\South\SouthReplace\SouthReplace\obj\Debug\netcoreapp3.1\SouthReplace.genruntimeconfig.cache
